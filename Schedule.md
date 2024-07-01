@@ -54,7 +54,7 @@
 ## Week 11: Testing and Adjustments
 12. **Unit and integration testing:**
     - Write and run tests for backend and frontend.
-    - Use tools like Jest, Mocha, Chai, etc.
+   
 13. **User testing:**
     - Conduct tests with end-users to get feedback.
     - Adjust interface and functionality based on results.
